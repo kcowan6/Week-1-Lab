@@ -27,7 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Week-1-Lab/User_Story.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='User_Story.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
